@@ -1,11 +1,12 @@
 # Car_Price_Analysis
 
-- Introduction
+# Introduction
 In the ever-evolving automotive industry, understanding the factors influencing car prices is paramount for consumers, dealerships, and manufacturers alike.
 The Car Price Analysis project aims to unravel the intricate dynamics that contribute to the pricing of automobiles, utilizing advanced data analysis techniques. 
 By delving into historical and contemporary data, this project seeks to identify patterns, correlations, and key variables that significantly impact car prices.
 
-- Dataset
+
+#  Dataset
 year - Refers to the manufacturing year of the car.
 
 make - Denotes the brand or manufacturer of the car.
